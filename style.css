@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: url(images/map.jpg) no-repeat center/cover;
+  overflow: hidden;
+}
+
+.pin {
+  width: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.coordinates {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 40px;
+  font-size: 24px;
+}
